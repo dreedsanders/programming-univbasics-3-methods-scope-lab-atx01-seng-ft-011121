@@ -1,8 +1,3 @@
- def local_variable
-   puts mario
-   puts toadstool
-end
-   
    def mario
   phrase = "It's-a me Mario!"
 end
